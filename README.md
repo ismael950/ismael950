@@ -4,6 +4,4 @@
 👨‍🔬Future EECS PhD student (if life treats me well)<br/>
 
 <h3>Programming projects:</h3><br/>
-<ul>
-  <li>[Competitive programming problems]</li>
-</ul>
+<ul> <li>[Competitive programming problems]</li> </ul>
