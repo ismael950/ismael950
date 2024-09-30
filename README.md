@@ -3,7 +3,7 @@
 💻Computer Science enthusiast<br/>
 👨‍🔬Future EECS PhD student (if life treats me well)<br/>
 
-<h3>Programming projects:</h3>
+<h3>Programming projects</h3>
 <ul> 
   <li>[Competitive programming problems]</li> 
 </ul>
