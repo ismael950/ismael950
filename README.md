@@ -5,5 +5,5 @@
 
 <h3>Programming projects</h3>
 <ul> 
-  <li>[Competitive programming problems]: (https://github.com/ismael950/Competitive_Programming_Problems)</li> 
+  <li>[Competitive programming problems](https://github.com/ismael950/Competitive_Programming_Problems)</li> 
 </ul>
